@@ -12,8 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haroontrailblazer&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haroontrailblazer&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-###Top contribv
-![](https://github-contributor-stats.vercel.app/api?username=haroontrailblazer&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)<br/>
+---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=haroontrailblazer&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
 
 ### ✍️ Random Dev Quote
