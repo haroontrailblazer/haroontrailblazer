@@ -1,6 +1,25 @@
-# 💫 About Me:
-<br>Hi there, I'm @haroontrailblazer 👋<br><br>🎓 I'm a 2nd-year BTech student in Artificial Intelligence and Data Science at Anna University.<br>🌱 Currently diving deep into the world of coding and AI.<br>💡 Enthusiastic about creating innovative solutions through programming.<br>😄 Optimistic and autistic, proud to bring a unique perspective to my work.<br><br>•Interests<br>👀 Passionate about exploring the latest advancements in AI and Data Science.<br>💻 Love coding and developing projects that push the boundaries of technology.<br>📊 Fascinated by data analysis and machine learning algorithms.<br><br>•Collaboration<br>💞️ Always open to collaborate on exciting projects in AI, Data Science, and beyond.<br>🤝 Looking to connect with fellow tech enthusiasts and professionals.<br><br>•Reach Me<br>📫 You can reach me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/haroon-k-m-861b8a255)
-.<br><br>•Fun Fact<br>⚡ Fun fact: I believe in the power of positivity and continuous learning to drive innovation.<br>
+# About Me
+Hi, I’m **@haroontrailblazer**  
+I am a 3rd-year **B.Tech student in Artificial Intelligence and Data Science** at **Anna University**.  
+I’m passionate about exploring the world of **AI, Data Science, and Software Development**, with a strong interest in building **innovative solutions** through coding and research.  
+I enjoy working on **data analysis, machine learning algorithms, and problem-solving**, while continuously learning and growing in the tech field.  
+
+## Interests
+- Exploring the latest advancements in **AI & Data Science**  
+- Developing projects that push the boundaries of **technology**  
+- Diving deep into **machine learning, data analysis, and automation**  
+
+## Collaboration
+- Open to collaborating on AI, Data Science, and technology-driven projects  
+- Always eager to connect with developers, researchers, and innovators  
+
+## Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/haroon-k-m-861b8a255)  
+[![Gmail](https://img.shields.io/badge/Email-haroontrailblazer-red?style=flat&logo=gmail)](mailto:your-email@example.com)  
+
+## Fun Fact
+I believe in the power of **positivity, creativity, and continuous learning** to drive innovation.  
+*"Code. Learn. Innovate. Repeat."*
 
 
 ## 🌐 Socials:
