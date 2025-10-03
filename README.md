@@ -1,6 +1,6 @@
 # About Me
 Hi, I’m **@haroontrailblazer**  
-I am a 3rd-year **B.Tech student in Artificial Intelligence and Data Science** at **Anna University**.  
+I am a pre-final year **B.Tech student in Artificial Intelligence and Data Science** at **Anna University**.  
 I’m passionate about exploring the world of **AI, Data Science, and Software Development**, with a strong interest in building **innovative solutions** through coding and research.  
 I enjoy working on **data analysis, machine learning algorithms, and problem-solving**, while continuously learning and growing in the tech field.  
 
