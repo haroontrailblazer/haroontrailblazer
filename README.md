@@ -42,5 +42,3 @@ I believe in the power of **positivity, creativity, and continuous learning** to
 
 ---
 [![](https://visitcount.itsvg.in/api?id=haroontrailblazer&icon=6&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
