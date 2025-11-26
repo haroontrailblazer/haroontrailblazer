@@ -6,10 +6,15 @@ I enjoy working on **data analysis, machine learning algorithms, and problem-sol
 
 Fun Fact - Can't lift a toothbrush, but can lift a whole codebase to fix one bug 🥱
 <br>
-<br>
-[![Certificate](https://img.shields.io/badge/Certificates-View-orange?style=flat&logo=openbadges)](https://github.com/haroontrailblazer/haroontrailblazer/tree/main/Certificates)
 
+[![Certificate](https://img.shields.io/badge/Certificates-View-orange?style=flat&logo=openbadges)](https://github.com/haroontrailblazer/haroontrailblazer/tree/main/Certificates)
 <br>
+  <img width="50" height="50" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/d852a457-8d34-4d8c-b18d-51c1bee079c0" />
+  <img width="50" height="50" alt="python-essentials-2" src="https://github.com/user-attachments/assets/1c840cef-b00d-4d8b-9efe-fcef56d8a07d" />
+ <img width="50" height="50" alt="data-analytics-essentials" 
+       src="https://github.com/user-attachments/assets/a73e5ad8-7ea6-4ffa-82b0-ae6bb03af6f4" />
+<img width="55" height="55" alt="google-cloud-cybersecurity-certificate" src="https://github.com/user-attachments/assets/cf3be9ea-a06c-471f-9b6c-ff1e6163e472" />
+
 
 ## Interests
 - Exploring the latest advancements in **AI & Data Science**  
