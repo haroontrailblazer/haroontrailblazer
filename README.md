@@ -8,7 +8,7 @@ I enjoy working on **data analysis, machine learning algorithms, and problem-sol
 
 Fun Fact - Can't lift a toothbrush, but can lift a whole codebase to fix one bug 🥱
 <br><br>
-[![View portfolio](https://img.shields.io/badge/View%20Portfolio-Open%20Site-brightgreen?style=for-the-badge&logo=github)](https://haroontrailblazer.github.io/profile/)
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Open%20Site-brightgreen?style=flat&logo=github)](https://haroontrailblazer.github.io/profile/)
 
 <br>
 
@@ -22,8 +22,8 @@ Fun Fact - Can't lift a toothbrush, but can lift a whole codebase to fix one bug
 <img width="95" height="95" alt="OCI25AICFAV1" src="https://github.com/user-attachments/assets/d0678cf7-2692-4f7a-919f-99147c5fb7a9" />
 <img width="95" height="95" alt="OCI25FNDCFAV1" src="https://github.com/user-attachments/assets/bea34207-492f-485c-92b6-fb2831c57a2b" /><img width="95" height="95" alt="google-cloud-cybersecurity-certificate" src="https://github.com/user-attachments/assets/cf3be9ea-a06c-471f-9b6c-ff1e6163e472" />
 
-<br>[![Certificates](https://img.shields.io/badge/Certificates-View-orange?style=for-the-badge&logo=openbadges)](https://github.com/haroontrailblazer/haroontrailblazer/tree/main/Certificates)
-[![Credly](https://img.shields.io/badge/View%20on-Credly-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/haroon-k-m)
+<br>[![Certificates](https://img.shields.io/badge/Certificates-View-orange?style=flat&logo=openbadges)](https://github.com/haroontrailblazer/haroontrailblazer/tree/main/Certificates)
+[![Credly Badge](https://img.shields.io/badge/View%20on-Credly-orange?style=flat&logo=credly)](https://www.credly.com/users/haroon-k-m)
 
 </div>
 
