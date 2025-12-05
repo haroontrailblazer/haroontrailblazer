@@ -8,7 +8,7 @@ I enjoy working on **data analysis, machine learning algorithms, and problem-sol
 
 Fun Fact - Can't lift a toothbrush, but can lift a whole codebase to fix one bug 🥱
 <br><br>
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Open%20Site-brightgreen?style=flat&logo=github)](https://haroontrailblazer.github.io/profile/)
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Open%20Site-brightgreen?style=flat&logo=github)](https://haroontrailblazer.up.railway.app/)
 
 <br>
 
