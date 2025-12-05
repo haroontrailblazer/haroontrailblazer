@@ -7,6 +7,8 @@ I’m passionate about exploring the world of **AI, Data Science, and Software D
 I enjoy working on **data analysis, machine learning algorithms, and problem-solving**, while continuously learning and growing in the tech field.
 
 Fun Fact - Can't lift a toothbrush, but can lift a whole codebase to fix one bug 🥱
+<br><br>
+[![View portfolio](https://img.shields.io/badge/View%20Portfolio-Open%20Site-brightgreen?style=for-the-badge&logo=github)](https://haroontrailblazer.github.io/profile/)
 
 <br>
 
