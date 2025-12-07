@@ -1,3 +1,5 @@
+<div style="background:#0d1117; padding:20px; color:#c9d1d9;">
+
 # About Me 
 Hi, I’m **@haroontrailblazer**  
 I am a pre-final year **B.Tech student in Artificial Intelligence and Data Science** at **Anna University**.  
@@ -5,6 +7,8 @@ I’m passionate about exploring the world of **AI, Data Science, and Software D
 I enjoy working on **data analysis, machine learning algorithms, and problem-solving**, while continuously learning and growing in the tech field.
 
 Fun Fact - Can't lift a toothbrush, but can lift a whole codebase to fix one bug 🥱
+<br><br>
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Open%20Site-brightgreen?style=flat&logo=github)](https://haroontrailblazer.up.railway.app/)
 
 <br>
 
@@ -18,7 +22,7 @@ Fun Fact - Can't lift a toothbrush, but can lift a whole codebase to fix one bug
 <img width="95" height="95" alt="OCI25AICFAV1" src="https://github.com/user-attachments/assets/d0678cf7-2692-4f7a-919f-99147c5fb7a9" />
 <img width="95" height="95" alt="OCI25FNDCFAV1" src="https://github.com/user-attachments/assets/bea34207-492f-485c-92b6-fb2831c57a2b" /><img width="95" height="95" alt="google-cloud-cybersecurity-certificate" src="https://github.com/user-attachments/assets/cf3be9ea-a06c-471f-9b6c-ff1e6163e472" />
 
-<br>[![Certificate](https://img.shields.io/badge/Certificates-View-orange?style=flat&logo=openbadges)](https://github.com/haroontrailblazer/haroontrailblazer/tree/main/Certificates)
+<br>[![Certificates](https://img.shields.io/badge/Certificates-View-orange?style=flat&logo=openbadges)](https://github.com/haroontrailblazer/haroontrailblazer/tree/main/Certificates)
 [![Credly Badge](https://img.shields.io/badge/View%20on-Credly-orange?style=flat&logo=credly)](https://www.credly.com/users/haroon-k-m)
 
 </div>
@@ -53,18 +57,17 @@ Fun Fact - Can't lift a toothbrush, but can lift a whole codebase to fix one bug
 <br>
 
 # GitHub Stats
-<div align=center>
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=haroontrailblazer&theme=dark&hide_border=true)
 
-<br/>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=haroontrailblazer&theme=dark&hide_border=true" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haroontrailblazer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br><br>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroontrailblazer&theme=dark&hide_border=true&layout=compact" />
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br><br>
 
-[![](https://visitcount.itsvg.in/api?id=haroontrailblazer&icon=6&color=dark)](https://visitcount.itsvg.in)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
 
 </div>
