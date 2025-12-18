@@ -17,10 +17,16 @@ Fun Fact - Can't lift a toothbrush, but can lift a whole codebase to fix one bug
 <br>
 <div align=center>
   
-<img width="90" height="90" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/d852a457-8d34-4d8c-b18d-51c1bee079c0" /> <img width="90" height="90" alt="python-essentials-2" src="https://github.com/user-attachments/assets/1c840cef-b00d-4d8b-9efe-fcef56d8a07d" /> <img width="90" height="90" alt="data-analytics-essentials" src="https://github.com/user-attachments/assets/a73e5ad8-7ea6-4ffa-82b0-ae6bb03af6f4" /> <img width="90" height="90" alt="computer-hardware-basics" src="https://github.com/user-attachments/assets/19b8e9d1-b453-4c2c-9d24-1387ceb9bfcb" /> <img width="90" height="90" alt="artificial-intelligence-fundamentals" src="https://github.com/user-attachments/assets/2aca037f-4f72-4433-9968-e912a6b86997" /> 
+<img width="90" height="90" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/d852a457-8d34-4d8c-b18d-51c1bee079c0" /> <img width="90" height="90" alt="python-essentials-2" src="https://github.com/user-attachments/assets/1c840cef-b00d-4d8b-9efe-fcef56d8a07d" /> <img width="90" height="90" alt="data-analytics-essentials" src="https://github.com/user-attachments/assets/a73e5ad8-7ea6-4ffa-82b0-ae6bb03af6f4" /> <img width="90" height="90" alt="computer-hardware-basics" src="https://github.com/user-attachments/assets/19b8e9d1-b453-4c2c-9d24-1387ceb9bfcb" /> 
 
-<img width="95" height="95" alt="OCI25AICFAV1" src="https://github.com/user-attachments/assets/d0678cf7-2692-4f7a-919f-99147c5fb7a9" />
-<img width="95" height="95" alt="OCI25FNDCFAV1" src="https://github.com/user-attachments/assets/bea34207-492f-485c-92b6-fb2831c57a2b" /><img width="95" height="95" alt="google-cloud-cybersecurity-certificate" src="https://github.com/user-attachments/assets/cf3be9ea-a06c-471f-9b6c-ff1e6163e472" />
+
+<img width="90" height="90" alt="artificial-intelligence-fundamentals" src="https://github.com/user-attachments/assets/2aca037f-4f72-4433-9968-e912a6b86997" /> <img width="90" height="90" alt="artificial-intelligence-fundamentals-with-capstone-" src="https://github.com/user-attachments/assets/9aea7cd5-aad2-4b69-aa85-dddb9ee8aeda" /> <img width="90" height="90" alt="agile-explorer" src="https://github.com/user-attachments/assets/00f6ce24-59c0-4e0e-867f-f77aa1782152" />
+
+
+<img width="95" height="95" alt="OCI25FNDCFAV1" src="https://github.com/user-attachments/assets/bea34207-492f-485c-92b6-fb2831c57a2b" /> <img width="95" height="95" alt="OCI25AICFAV1" src="https://github.com/user-attachments/assets/d0678cf7-2692-4f7a-919f-99147c5fb7a9" />
+
+
+<img width="95" height="95" alt="google-cloud-cybersecurity-certificate" src="https://github.com/user-attachments/assets/cf3be9ea-a06c-471f-9b6c-ff1e6163e472" />
 
 <br>[![Certificates](https://img.shields.io/badge/Certificates-View-orange?style=flat&logo=openbadges)](https://github.com/haroontrailblazer/haroontrailblazer/tree/main/Certificates)
 [![Credly Badge](https://img.shields.io/badge/View%20on-Credly-orange?style=flat&logo=credly)](https://www.credly.com/users/haroon-k-m)
