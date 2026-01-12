@@ -10,7 +10,7 @@ Fun Fact - Can't lift a toothbrush, but can lift a whole codebase to fix one bug
 <br><br>
 [![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Open%20Site-brightgreen?style=flat&logo=github)](https://haroontrailblazer.vercel.app/)
 <br>
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/YOUR_USERNAME/)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/haroon_trailblazer/)
 
 
 
