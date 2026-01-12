@@ -69,13 +69,7 @@ Fun Fact - Can't lift a toothbrush, but can lift a whole codebase to fix one bug
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroontrailblazer&theme=dark&hide_border=true" />
-
 <br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroontrailblazer&theme=dark&hide_border=true&layout=compact" />
-
-<br><br>
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
