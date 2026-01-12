@@ -51,7 +51,7 @@ Fun Fact - Can't lift a toothbrush, but can lift a whole codebase to fix one bug
 
 ## Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/haroon-k-m-861b8a255)  
-[![Gmail](https://img.shields.io/badge/Email-haroontrailblazer-red?style=flat&logo=gmail)](mailto: haroonint144@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Email-haroontrailblazer-red?style=flat&logo=gmail)](mailto:haroonint144@gmail.com)  
 
 
 
