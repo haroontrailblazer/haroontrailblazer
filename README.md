@@ -10,13 +10,19 @@ Fun Fact - Can't lift a toothbrush, but can lift a whole codebase to fix one bug
 
 <img width="1581" height="976" alt="Screenshot 2026-01-20 113355" src="https://github.com/user-attachments/assets/bc708fde-151c-4d07-add1-7e32a82ccc76" />
 
+<div align=center>
+  
 <br><br>
 [![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Open%20Site-brightgreen?style=flat&logo=github)](https://haroontrailblazer.vercel.app/)
 <br>
+
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/haroontrailblazer/)
 <br>
+
 [![Ollama Profile](https://img.shields.io/badge/Ollama-Models-blue?style=flat&logo=ollama)](https://ollama.com/haroontrailblazer)
 <br>
+
+</div>
 
 ## Achievements
 
