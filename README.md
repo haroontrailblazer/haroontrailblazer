@@ -15,7 +15,7 @@ Fun Fact - Can't lift a toothbrush, but can lift a whole codebase to fix one bug
   
 [![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Open%20Site-brightgreen?style=flat&logo=github)](https://haroontrailblazer.vercel.app/)  [![Ollama Profile](https://img.shields.io/badge/Ollama-Models-blue?style=flat&logo=ollama)](https://ollama.com/haroontrailblazer)
 
-[![Let's Talk](https://img.shields.io/badge/Let's%20Talk-Book%20Meeting-blue?style=flat&logo=google-meet)](https://calendar.app.google/WcG4Nt8SEG24jGU69)
+[![Let's Talk](https://img.shields.io/badge/Let's%20Talk-Book%20Meeting-blue?style=flat&logo=google-meet)](https://haroontrailblazer.vercel.app/booking.html)
 
 </div>
 
