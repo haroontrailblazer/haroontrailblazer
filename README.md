@@ -10,7 +10,8 @@ Fun Fact - Can't lift a toothbrush, but can lift a whole codebase to fix one bug
 
 <br>
 <div align=center>
-<img width="500" height="600" alt="Screenshot 2026-02-07 162223" src="https://github.com/user-attachments/assets/ac3aa04d-5e66-43cf-86d4-0d7e4f367ad8" />
+<img width="500" height="600" alt="Screenshot 2026-02-08 221955" src="https://github.com/user-attachments/assets/f33d83e7-29f0-48b5-b71e-4c9bd5cb475c" />
+
 <br>
   
 [![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Open%20Site-brightgreen?style=flat&logo=github)](https://haroontrailblazer.vercel.app/)  [![Ollama Profile](https://img.shields.io/badge/Ollama-Models-blue?style=flat&logo=ollama)](https://ollama.com/haroontrailblazer)
