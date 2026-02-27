@@ -48,10 +48,12 @@ Fun Fact - Can't lift a toothbrush, but can lift a whole codebase to fix one bug
 <img width="90" height="90" alt="artificial-intelligence-fundamentals" src="https://github.com/user-attachments/assets/2aca037f-4f72-4433-9968-e912a6b86997" /> <img width="90" height="90" alt="artificial-intelligence-fundamentals-with-capstone-" src="https://github.com/user-attachments/assets/9aea7cd5-aad2-4b69-aa85-dddb9ee8aeda" /> <img width="90" height="90" alt="agile-explorer" src="https://github.com/user-attachments/assets/00f6ce24-59c0-4e0e-867f-f77aa1782152" />
 
 
-<img width="95" height="95" alt="OCI25FNDCFAV1" src="https://github.com/user-attachments/assets/bea34207-492f-485c-92b6-fb2831c57a2b" /> <img width="95" height="95" alt="OCI25AICFAV1" src="https://github.com/user-attachments/assets/d0678cf7-2692-4f7a-919f-99147c5fb7a9" />
+<img width="95" height="95" alt="google-cloud-cybersecurity-certificate" src="https://github.com/user-attachments/assets/cf3be9ea-a06c-471f-9b6c-ff1e6163e472" /> <img width="95" height="95" alt="OCI25FNDCFAV1" src="https://github.com/user-attachments/assets/bea34207-492f-485c-92b6-fb2831c57a2b" /> <img width="95" height="95" alt="OCI25AICFAV1" src="https://github.com/user-attachments/assets/d0678cf7-2692-4f7a-919f-99147c5fb7a9" /> <img width="95" height="95" alt="google-cloud-data-analytics-certificate" src="https://github.com/user-attachments/assets/fcc87bab-698e-4a5b-8de1-a509068ae21c" />
+
+<img width="195" height="155" alt="google-cloud-cybersecurity-certificate" src="https://github.com/user-attachments/assets/8a1173a0-1bec-42a8-81af-f78f82cac70b" />
+<img width="195" height="155" alt="google-cloud-cybersecurity-certificate" src="https://github.com/user-attachments/assets/61f7030d-f912-47e1-97a1-e500172dbb01" />
 
 
-<img width="95" height="95" alt="google-cloud-cybersecurity-certificate" src="https://github.com/user-attachments/assets/cf3be9ea-a06c-471f-9b6c-ff1e6163e472" /><img width="95" height="95" alt="google-cloud-data-analytics-certificate" src="https://github.com/user-attachments/assets/fcc87bab-698e-4a5b-8de1-a509068ae21c" />
 
 
 <br>[![Certificates](https://img.shields.io/badge/Certificates-View-orange?style=flat&logo=openbadges)](https://github.com/haroontrailblazer/haroontrailblazer/tree/main/Certificates)
