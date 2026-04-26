@@ -13,12 +13,12 @@
 <div align="center">
 
 ```
-  ██╗  ██╗ █████╗ ██████╗  ██████╗  ██████╗ ███╗   ██╗
-  ██║  ██║██╔══██╗██╔══██╗██╔═══██╗██╔═══██╗████╗  ██║
-  ███████║███████║██████╔╝██║   ██║██║   ██║██╔██╗ ██║
-  ██╔══██║██╔══██║██╔══██╗██║   ██║██║   ██║██║╚██╗██║
-  ██║  ██║██║  ██║██║  ██║╚██████╔╝╚██████╔╝██║ ╚████║
-  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝
+  ██╗  ██╗ █████╗ ██████╗  ██████╗  ██████╗ ███╗   ██╗    ██╗  ██╗    ███╗   ███╗
+  ██║  ██║██╔══██╗██╔══██╗██╔═══██╗██╔═══██╗████╗  ██║    ██║ ██╔╝    ████╗ ████║
+  ███████║███████║██████╔╝██║   ██║██║   ██║██╔██╗ ██║    █████╔╝     ██╔████╔██║
+  ██╔══██║██╔══██║██╔══██╗██║   ██║██║   ██║██║╚██╗██║    ██╔═██╗     ██║╚██╔╝██║
+  ██║  ██║██║  ██║██║  ██║╚██████╔╝╚██████╔╝██║ ╚████║    ██║  ██╗    ██║ ╚═╝ ██║
+  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝   ╚═╝  ╚═╝   ╚═╝     ╚═╝
 ```
 
 **`> B.Tech · Artificial Intelligence & Data Science · Anna University`**
@@ -144,8 +144,7 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 | 04 | Computer Hardware Basics | Cisco / NetAcad | <img width="90" height="90" alt="computer-hardware-basics" src="https://github.com/user-attachments/assets/19b8e9d1-b453-4c2c-9d24-1387ceb9bfcb" />|
 | 05 | AI Fundamentals | IBM | <img width="90" height="90" alt="artificial-intelligence-fundamentals" src="https://github.com/user-attachments/assets/2aca037f-4f72-4433-9968-e912a6b86997" /> |
 | 06 | AI Fundamentals with Capstone | IBM | <img width="90" height="90" alt="artificial-intelligence-fundamentals-with-capstone-" src="https://github.com/user-attachments/assets/9aea7cd5-aad2-4b69-aa85-dddb9ee8aeda" /> |
-| 07 | Agile Explorer | IBM | <img width="90" height="90" alt="agile-explorer" src="https://github.com/user-attachments/assets/00f6ce24-59c0-4e0e-867f-f77aa1782152" />
-|
+| 07 | Agile Explorer | IBM | <img width="90" height="90" alt="agile-explorer" src="https://github.com/user-attachments/assets/00f6ce24-59c0-4e0e-867f-f77aa1782152" />|
 | 08 | Google Cloud Cybersecurity Certificate | Google Cloud | <img width="95" height="95" alt="google-cloud-cybersecurity-certificate" src="https://github.com/user-attachments/assets/cf3be9ea-a06c-471f-9b6c-ff1e6163e472" /> |
 | 09 | Google Cloud Data Analytics Certificate | Google Cloud | <img width="95" height="95" alt="google-cloud-data-analytics-certificate" src="https://github.com/user-attachments/assets/fcc87bab-698e-4a5b-8de1-a509068ae21c" />|
 | 10 | OCI Foundations Associate 2025 | Oracle Cloud | <img width="95" height="95" alt="OCI25FNDCFAV1" src="https://github.com/user-attachments/assets/bea34207-492f-485c-92b6-fb2831c57a2b" />|
