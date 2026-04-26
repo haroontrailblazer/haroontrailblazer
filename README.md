@@ -126,6 +126,21 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-plastic&logo=Raspberry-Pi)
 ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=flat-plastic&logo=cisco&logoColor=black)
 
+### ◈ AI Tools & Platforms
+![Claude](https://img.shields.io/badge/Claude-Anthropic-D97757?style=flat-plastic&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-74AA9C?style=flat-plastic&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-OpenAI-412991?style=flat-plastic&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-plastic&logo=githubcopilot&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-Google-4285F4?style=flat-plastic&logo=google&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-FF6F00?style=flat-plastic&logo=google&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-AI_Editor-000000?style=flat-plastic&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-AI_Builder-FF69B4?style=flat-plastic&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-plastic&logo=supabase&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-AI_Search-20808D?style=flat-plastic&logo=perplexity&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-plastic&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-333333?style=flat-plastic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Workflow_AI-EA4B71?style=flat-plastic&logo=n8n&logoColor=white)
+
 <br/>
 
 ---
