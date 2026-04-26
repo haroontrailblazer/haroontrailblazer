@@ -53,7 +53,7 @@ class Haroon:
     handle      = "@haroontrailblazer"
     university  = "Anna University, Chennai"
     degree      = "B.Tech — Artificial Intelligence & Data Science"
-    year        = "Pre-Final Year"
+    year        = "Final Year"
     focus       = ["LLMs", "Agentic AI", "RAG Pipelines", "ML Systems"]
     open_to     = ["Collaborations", "Research", "Internships"]
     fun_fact    = "Can't lift a toothbrush, but can lift a whole codebase to fix one bug 🥱"
