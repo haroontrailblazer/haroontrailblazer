@@ -192,7 +192,6 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=haroontrailblazer&theme=tokyonight&hide_border=true&background=0d1117&stroke=00e5ff&ring=7c3aed&fire=f59e0b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=4a5568" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=haroontrailblazer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=false&count_private=false" width="49%"/>
 
 <br/>
