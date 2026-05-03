@@ -23,14 +23,14 @@
 
 **`> B.Tech · Artificial Intelligence & Data Science · Anna University`**
 
-*Building intelligent systems — LLMs · Agentic AI · RAG · Data Pipelines*
+_Building intelligent systems — LLMs · Agentic AI · RAG · Data Pipelines_
 
 <br/>
 
 [![View Portfolio](https://img.shields.io/badge/◈_Portfolio-haroontrailblazer.vercel.app-00e5ff?style=flat&logo=github)](https://haroontrailblazer.vercel.app/)
 [![Let's Talk](https://img.shields.io/badge/◈_Book_a_Meeting-Google_Meet-4285F4?style=flat&logo=google-meet)](https://haroontrailblazer.vercel.app/booking.html)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/haroon-k-m-861b8a255)  [![Gmail](https://img.shields.io/badge/Email-haroontrailblazer-red?style=flat&logo=gmail)](mailto:haroonint144@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/haroon-k-m-861b8a255) [![Gmail](https://img.shields.io/badge/Email-haroontrailblazer-red?style=flat&logo=gmail)](mailto:haroonint144@gmail.com)
 
 <br/>
 
@@ -40,7 +40,6 @@
 </div>
 
 <br/>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -64,12 +63,12 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 
 <br/>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `〔 02 〕` · Tech Stack
 
-### ◈ AI / ML Core *(Primary Focus)*
+### ◈ AI / ML Core _(Primary Focus)_
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-plastic&logo=python&logoColor=ffdd54)
 ![LangChain](https://img.shields.io/badge/LangChain-0A7FFF?style=flat-plastic&logo=chainlink&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-6F42C1?style=flat-plastic)
@@ -80,6 +79,7 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent-Collaboration-2ECC71?style=flat-plastic)
 
 ### ◈ ML Libraries
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-plastic&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-plastic&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-plastic&logo=Keras&logoColor=white)
@@ -92,6 +92,7 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-plastic&logo=scipy&logoColor=white)
 
 ### ◈ Languages
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-plastic&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-plastic&logo=javascript&logoColor=F7DF1E)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-plastic&logo=r&logoColor=white)
@@ -100,6 +101,7 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-plastic&logo=openjdk&logoColor=white)
 
 ### ◈ Cloud & Infrastructure
+
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-plastic&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-plastic&logo=amazon-aws&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-plastic&logo=oracle&logoColor=white)
@@ -109,6 +111,7 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-plastic&logo=render&logoColor=white)
 
 ### ◈ Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-plastic&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-plastic&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-plastic&logo=sqlite&logoColor=white)
@@ -117,6 +120,7 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-plastic&logo=microsoft%20sql%20server&logoColor=white)
 
 ### ◈ Frameworks & Tools
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-plastic&logo=fastapi)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-plastic&logo=powerbi&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-pastic&logo=githubactions&logoColor=white)
@@ -125,6 +129,7 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=flat-plastic&logo=cisco&logoColor=black)
 
 ### ◈ AI Tools & Platforms
+
 ![Claude](https://img.shields.io/badge/Claude-Anthropic-D97757?style=flat-plastic&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-74AA9C?style=flat-plastic&logo=openai&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-OpenAI-412991?style=flat-plastic&logo=openai&logoColor=white)
@@ -141,30 +146,30 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 
 <br/>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `〔 03 〕` · Certifications
 
 <div align="center">
 
-| # | Certification | Issuer | Domain |
-|:-:|--------------|--------|--------|
-| 01 | Python Essentials 1 | Cisco / NetAcad | <img width="90" height="90" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/d852a457-8d34-4d8c-b18d-51c1bee079c0" />|
-| 02 | Python Essentials 2 | Cisco / NetAcad | <img width="90" height="90" alt="python-essentials-2" src="https://github.com/user-attachments/assets/1c840cef-b00d-4d8b-9efe-fcef56d8a07d" /> |
-| 03 | Data Analytics Essentials | Cisco / NetAcad | <img width="90" height="90" alt="data-analytics-essentials" src="https://github.com/user-attachments/assets/a73e5ad8-7ea6-4ffa-82b0-ae6bb03af6f4" /> |
-| 04 | Computer Hardware Basics | Cisco / NetAcad | <img width="90" height="90" alt="computer-hardware-basics" src="https://github.com/user-attachments/assets/19b8e9d1-b453-4c2c-9d24-1387ceb9bfcb" />|
-| 05 | AI Fundamentals | IBM | <img width="90" height="90" alt="artificial-intelligence-fundamentals" src="https://github.com/user-attachments/assets/2aca037f-4f72-4433-9968-e912a6b86997" /> |
-| 06 | AI Fundamentals with Capstone | IBM | <img width="90" height="90" alt="artificial-intelligence-fundamentals-with-capstone-" src="https://github.com/user-attachments/assets/9aea7cd5-aad2-4b69-aa85-dddb9ee8aeda" /> |
-| 07 | Agile Explorer | IBM | <img width="90" height="90" alt="agile-explorer" src="https://github.com/user-attachments/assets/00f6ce24-59c0-4e0e-867f-f77aa1782152" />|
-| 08 | Google Cloud Cybersecurity Certificate | Google Cloud | <img width="95" height="95" alt="google-cloud-cybersecurity-certificate" src="https://github.com/user-attachments/assets/cf3be9ea-a06c-471f-9b6c-ff1e6163e472" /> |
-| 09 | Google Cloud Data Analytics Certificate | Google Cloud | <img width="95" height="95" alt="google-cloud-data-analytics-certificate" src="https://github.com/user-attachments/assets/fcc87bab-698e-4a5b-8de1-a509068ae21c" />|
-| 10 | OCI Foundations Associate 2025 | Oracle Cloud | <img width="95" height="95" alt="OCI25FNDCFAV1" src="https://github.com/user-attachments/assets/bea34207-492f-485c-92b6-fb2831c57a2b" />|
-| 11 | OCI AI Foundations Associate 2025 | Oracle Cloud | <img width="95" height="95" alt="OCI25AICFAV1" src="https://github.com/user-attachments/assets/d0678cf7-2692-4f7a-919f-99147c5fb7a9" />|
-| 12 | LangGraph 2025 | Langchain | <img width="150" height="100" alt="google-cloud-cybersecurity-certificate" src="https://github.com/user-attachments/assets/61f7030d-f912-47e1-97a1-e500172dbb01" /> |
-| 13 | Deep Agents 2025 | Langchain | <img width="150" height="100" alt="google-cloud-cybersecurity-certificate" src="https://github.com/user-attachments/assets/61f7030d-f912-47e1-97a1-e500172dbb01" /> |
+|  #  | Certification                           | Issuer          | Domain                                                                                                                                                                         |
+| :-: | --------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 01  | Python Essentials 1                     | Cisco / NetAcad | <img width="90" height="90" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/d852a457-8d34-4d8c-b18d-51c1bee079c0" />                               |
+| 02  | Python Essentials 2                     | Cisco / NetAcad | <img width="90" height="90" alt="python-essentials-2" src="https://github.com/user-attachments/assets/1c840cef-b00d-4d8b-9efe-fcef56d8a07d" />                                 |
+| 03  | Data Analytics Essentials               | Cisco / NetAcad | <img width="90" height="90" alt="data-analytics-essentials" src="https://github.com/user-attachments/assets/a73e5ad8-7ea6-4ffa-82b0-ae6bb03af6f4" />                           |
+| 04  | Computer Hardware Basics                | Cisco / NetAcad | <img width="90" height="90" alt="computer-hardware-basics" src="https://github.com/user-attachments/assets/19b8e9d1-b453-4c2c-9d24-1387ceb9bfcb" />                            |
+| 05  | AI Fundamentals                         | IBM             | <img width="90" height="90" alt="artificial-intelligence-fundamentals" src="https://github.com/user-attachments/assets/2aca037f-4f72-4433-9968-e912a6b86997" />                |
+| 06  | AI Fundamentals with Capstone           | IBM             | <img width="90" height="90" alt="artificial-intelligence-fundamentals-with-capstone-" src="https://github.com/user-attachments/assets/9aea7cd5-aad2-4b69-aa85-dddb9ee8aeda" /> |
+| 07  | Agile Explorer                          | IBM             | <img width="90" height="90" alt="agile-explorer" src="https://github.com/user-attachments/assets/00f6ce24-59c0-4e0e-867f-f77aa1782152" />                                      |
+| 08  | Google Cloud Cybersecurity Certificate  | Google Cloud    | <img width="95" height="95" alt="google-cloud-cybersecurity-certificate" src="https://github.com/user-attachments/assets/cf3be9ea-a06c-471f-9b6c-ff1e6163e472" />              |
+| 09  | Google Cloud Data Analytics Certificate | Google Cloud    | <img width="95" height="95" alt="google-cloud-data-analytics-certificate" src="https://github.com/user-attachments/assets/fcc87bab-698e-4a5b-8de1-a509068ae21c" />             |
+| 10  | OCI Foundations Associate 2025          | Oracle Cloud    | <img width="95" height="95" alt="OCI25FNDCFAV1" src="https://github.com/user-attachments/assets/bea34207-492f-485c-92b6-fb2831c57a2b" />                                       |
+| 11  | OCI AI Foundations Associate 2025       | Oracle Cloud    | <img width="95" height="95" alt="OCI25AICFAV1" src="https://github.com/user-attachments/assets/d0678cf7-2692-4f7a-919f-99147c5fb7a9" />                                        |
+| 12  | LangGraph 2025                          | Langchain       | <img width="150" height="100" alt="google-cloud-cybersecurity-certificate" src="https://github.com/user-attachments/assets/61f7030d-f912-47e1-97a1-e500172dbb01" />            |
+| 13  | Deep Agents 2025                        | Langchain       | <img width="150" height="100" alt="google-cloud-cybersecurity-certificate" src="https://github.com/user-attachments/assets/61f7030d-f912-47e1-97a1-e500172dbb01" />            |
+| 14  | ClaudeCode-101                          | Anthropic       | <img width="150" height="100" alt="Claudecode-101" src="https://verify.skilljar.com/c/g4qtu7bxkfsw" />            |
 
-</div> 
+</div>
 
 <br/>
 
@@ -181,7 +186,6 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 
 <br/>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `〔 04 〕` · GitHub Stats
@@ -196,18 +200,16 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 
 <br/>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `〔 05 〕` · Connect & Socials
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/haroon-k-m-861b8a255)  [![Gmail](https://img.shields.io/badge/Email-haroontrailblazer-red?style=flat&logo=gmail)](mailto:haroonint144@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/haroon-k-m-861b8a255) [![Gmail](https://img.shields.io/badge/Email-haroontrailblazer-red?style=flat&logo=gmail)](mailto:haroonint144@gmail.com)
 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/haroon5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haroontrailblazer) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/haroontrailblazer) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Haroon_trailblazer) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/haroontrailblazer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@haroonTrailblaz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@haroon144-e2j)
 
-
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/haroon5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haroontrailblazer) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/haroontrailblazer) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Haroon_trailblazer) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/haroontrailblazer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@haroonTrailblaz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@haroon144-e2j) 
 </div>
 
 <br/>
@@ -222,6 +224,6 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=e8e8e6&height=80&section=footer" width="100%"/>
 
-*CloseFuture · Bengaluru · Open to collaborations*
+_CloseFuture · Bengaluru · Open to collaborations_
 
 </div>
