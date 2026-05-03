@@ -167,7 +167,8 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 | 11  | OCI AI Foundations Associate 2025       | Oracle Cloud    | <img width="95" height="95" alt="OCI25AICFAV1" src="https://github.com/user-attachments/assets/d0678cf7-2692-4f7a-919f-99147c5fb7a9" />                                        |
 | 12  | LangGraph 2025                          | Langchain       | <img width="150" height="100" alt="google-cloud-cybersecurity-certificate" src="https://github.com/user-attachments/assets/61f7030d-f912-47e1-97a1-e500172dbb01" />            |
 | 13  | Deep Agents 2025                        | Langchain       | <img width="150" height="100" alt="google-cloud-cybersecurity-certificate" src="https://github.com/user-attachments/assets/61f7030d-f912-47e1-97a1-e500172dbb01" />            |
-| 14  | ClaudeCode-101                          | Anthropic       | <img width="150" height="100" alt="Claudecode-101" src="https://verify.skilljar.com/c/g4qtu7bxkfsw" />            |
+| 14  | ClaudeCode-101                          | Anthropic       | <img width="150" height="100" alt="Claudecode-101" src="https://github.com/user-attachments/assets/7f577e85-075e-4e40-8919-801efc1f0c64" /> 
+|
 
 </div>
 
