@@ -136,6 +136,7 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-plastic&logo=snowflake&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-plastic&logo=apache-cassandra&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-plastic&logo=microsoft%20sql%20server&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-plastic&logo=supabase&logoColor=white)
 
 ### ◈ Frameworks & Tools
 
@@ -156,7 +157,6 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-FF6F00?style=flat-plastic&logo=google&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-AI_Editor-000000?style=flat-plastic&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-AI_Builder-FF69B4?style=flat-plastic&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-plastic&logo=supabase&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-AI_Search-20808D?style=flat-plastic&logo=perplexity&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-plastic&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-333333?style=flat-plastic&logoColor=white)
@@ -166,7 +166,28 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `〔 03 〕` · Certifications
+## `〔 03 〕` · Featured Projects
+
+| Project | About |
+| :--- | :--- |
+| **[EduOrchestrate](https://github.com/haroontrailblazer/EduOrchestrate)** | Multi-agent AI system for academic & administrative operations — `LangGraph` |
+| **[Oreag](https://github.com/haroontrailblazer/Oreag)** | Context-aware response generation system — `LLMs · RAG` |
+| **[vector-less RAG](https://github.com/haroontrailblazer/vector-less-vector-Based-RAG)** | Reasoning-based retrieval without a vector index — `Python` |
+| **[MindScope-2025](https://github.com/haroontrailblazer/MindScope-2025)** | Mental-health trend analysis on PHQ-9 / GAD-7 indicators — `Pandas · ML` |
+| **[StrengthX](https://github.com/haroontrailblazer/StrengthX)** | Password analyzer with AI-powered strength assessment — `Python` |
+| **[MomentoMonto](https://github.com/haroontrailblazer/MomentoMonto)** | Server uptime & response-time monitoring — `APIs` |
+
+<div align="center">
+
+[![All Repositories](https://img.shields.io/badge/◈_Explore_All_Repositories-181717?style=flat&logo=github)](https://github.com/haroontrailblazer?tab=repositories)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## `〔 04 〕` · Certifications
 
 <div align="center">
 
@@ -207,7 +228,7 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `〔 04 〕` · GitHub Stats
+## `〔 05 〕` · GitHub Stats
 
 <div align="center">
 
@@ -221,7 +242,7 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `〔 05 〕` · Connect & Socials
+## `〔 06 〕` · Connect & Socials
 
 <div align="center">
 
