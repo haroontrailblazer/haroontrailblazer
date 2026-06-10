@@ -6,12 +6,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e8e8e6&height=200&section=header&text=haroontrailblazer&fontSize=36&fontColor=0d1117&fontAlignY=40&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-
 ```
   ██╗  ██╗ █████╗ ██████╗  ██████╗  ██████╗ ███╗   ██╗    ██╗  ██╗    ███╗   ███╗
   ██║  ██║██╔══██╗██╔══██╗██╔═══██╗██╔═══██╗████╗  ██║    ██║ ██╔╝    ████╗ ████║
@@ -21,21 +15,45 @@
   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝   ╚═╝  ╚═╝   ╚═╝     ╚═╝
 ```
 
-**`> B.Tech · Artificial Intelligence & Data Science · Anna University`**
-
-_Building intelligent systems — LLMs · Agentic AI · RAG · Data Pipelines_
-
-<br/>
-
-[![View Portfolio](https://img.shields.io/badge/◈_Portfolio-haroontrailblazer.vercel.app-00e5ff?style=flat&logo=github)](https://haroontrailblazer.vercel.app/)
-[![Let's Talk](https://img.shields.io/badge/◈_Book_a_Meeting-Google_Meet-4285F4?style=flat&logo=google-meet)](https://haroontrailblazer.vercel.app/booking.html)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/haroon-k-m-861b8a255) [![Gmail](https://img.shields.io/badge/Email-haroontrailblazer-red?style=flat&logo=gmail)](mailto:haroonint144@gmail.com)
+<a href="https://haroontrailblazer.vercel.app/">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=700&color=D97757&center=true&vCenter=true&width=720&height=44&lines=AI+%2F+ML+Engineer;LLMs+%C2%B7+Agentic+AI+%C2%B7+RAG+Pipelines;Multi-Agent+Systems+%C2%B7+LangGraph;Data+%E2%86%92+Models+%E2%86%92+Production" alt="AI / ML Engineer — LLMs · Agentic AI · RAG Pipelines" />
+</a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=haroontrailblazer&color=00e5ff&style=flat-plastic&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/haroontrailblazer?label=FOLLOWERS&style=flat-plastic&color=7c3aed)](https://github.com/haroontrailblazer)
+**`B.Tech — Artificial Intelligence & Data Science · Anna University, Chennai`**
+
+I design and ship **intelligent systems end-to-end** — autonomous agents, retrieval pipelines,
+vector search, and ML models that make it past the notebook and into production.
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://api.iconify.design/octicon:dependabot-16.svg?color=%23D97757" width="22" alt="Agentic AI icon" /><br/>
+<strong>Agentic AI</strong><br/>
+<sub>Multi-agent orchestration<br/>LangGraph · Deep Agents · Tool use</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://api.iconify.design/octicon:search-16.svg?color=%23D97757" width="22" alt="Retrieval icon" /><br/>
+<strong>Retrieval & RAG</strong><br/>
+<sub>Vector & vectorless RAG<br/>FAISS · Reasoning-based indexing</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://api.iconify.design/octicon:graph-16.svg?color=%23D97757" width="22" alt="ML and Data icon" /><br/>
+<strong>ML & Data</strong><br/>
+<sub>PyTorch · scikit-learn<br/>Analytics · MLOps · Cloud deploys</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+[![View Portfolio](https://img.shields.io/badge/◈_Portfolio-haroontrailblazer.vercel.app-D97757?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://haroontrailblazer.vercel.app/)
+[![Let's Talk](https://img.shields.io/badge/◈_Book_a_Meeting-Google_Meet-4285F4?style=for-the-badge&logo=googlemeet&logoColor=white&labelColor=0d1117)](https://haroontrailblazer.vercel.app/booking.html)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/haroon-k-m-861b8a255) [![Gmail](https://img.shields.io/badge/Email-haroonint144-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:haroonint144@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=haroontrailblazer&color=D97757&style=flat&label=views) [![GitHub followers](https://img.shields.io/github/followers/haroontrailblazer?label=followers&style=flat&color=7c3aed)](https://github.com/haroontrailblazer)
 
 </div>
 
@@ -54,7 +72,7 @@ class Haroon:
     year        = "Final Year"
     focus       = ["LLMs", "Agentic AI", "RAG Pipelines", "ML Systems"]
     open_to     = ["Collaborations", "Research", "Internships"]
-    fun_fact    = "Can't lift a toothbrush, but can lift a whole codebase to fix one bug 🥱"
+    fun_fact    = "Can't lift a toothbrush, but can lift a whole codebase to fix one bug"
 ```
 
 I build **end-to-end intelligent systems** — from LLM-powered agents and vector search pipelines to classical ML models and cloud deployments. I'm driven by research, clean code, and shipping things that actually work.
@@ -73,7 +91,7 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 ![LangChain](https://img.shields.io/badge/LangChain-0A7FFF?style=flat-plastic&logo=chainlink&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-6F42C1?style=flat-plastic)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-00B4D8?style=flat-plastic&logo=meta&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-Large_Language_Models-111111?style=flat-plastic&logo=openai&logoColor=00E5FF)
+![LLMs](https://img.shields.io/badge/LLMs-Large_Language_Models-111111?style=flat-plastic&logo=openai&logoColor=D97757)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-Autonomous_Systems-FF6F00?style=flat-plastic)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-Reasoning_%26_Planning-8E44AD?style=flat-plastic)
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent-Collaboration-2ECC71?style=flat-plastic)
@@ -193,9 +211,9 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=haroontrailblazer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=false&count_private=false" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroontrailblazer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&layout=compact" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=haroontrailblazer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D97757&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=false&count_private=false" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroontrailblazer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D97757&text_color=c9d1d9&layout=compact" width="40%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haroontrailblazer&bg_color=0d1117&color=00e5ff&line=7c3aed&point=f59e0b&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haroontrailblazer&bg_color=0d1117&color=D97757&line=7c3aed&point=f59e0b&area=true&hide_border=true" width="100%"/>
 
 </div>
 
