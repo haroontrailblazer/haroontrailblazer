@@ -207,7 +207,9 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 | 12  | LangGraph 2025                          | Langchain       | <img width="150" height="100" alt="google-cloud-cybersecurity-certificate" src="https://github.com/user-attachments/assets/61f7030d-f912-47e1-97a1-e500172dbb01" />            |
 | 13  | Deep Agents 2025                        | Langchain       | <img width="150" height="100" alt="google-cloud-cybersecurity-certificate" src="https://github.com/user-attachments/assets/61f7030d-f912-47e1-97a1-e500172dbb01" />            |
 | 14  | ClaudeCode-101                          | Anthropic       | <img width="150" height="100" alt="Claudecode-101" src="https://github.com/user-attachments/assets/7f577e85-075e-4e40-8919-801efc1f0c64" /> 
-| 15  | Claude Cowork                           | Anthropic       | <img width="1287" height="994" alt="claudecowork" src="https://github.com/user-attachments/assets/5e99be87-6fa1-49a3-a8bb-3e665aa85aae" />
+| 15  | Claude Cowork                           | Anthropic       | <img width="150" height="100" alt="claudecowork" src="https://github.com/user-attachments/assets/5e99be87-6fa1-49a3-a8bb-3e665aa85aae" />
+| 16  | Claude 101                              | Anthropic       | <img width="150" height="100" alt="Claude 101" src="https://github.com/user-attachments/assets/cc8e3e03-6839-4d97-b38c-64466bf2f377" />
+
 
 
 </div>
