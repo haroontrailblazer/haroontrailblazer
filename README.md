@@ -210,6 +210,7 @@ I build **end-to-end intelligent systems** — from LLM-powered agents and vecto
 | 14  | ClaudeCode-101                          | Anthropic       | <img width="150" height="100" alt="Claudecode-101" src="https://github.com/user-attachments/assets/7f577e85-075e-4e40-8919-801efc1f0c64" /> 
 | 15  | Claude Cowork                           | Anthropic       | <img width="150" height="100" alt="claudecowork" src="https://github.com/user-attachments/assets/5e99be87-6fa1-49a3-a8bb-3e665aa85aae" />
 | 16  | Claude 101                              | Anthropic       | <img width="150" height="100" alt="Claude 101" src="https://github.com/user-attachments/assets/cc8e3e03-6839-4d97-b38c-64466bf2f377" />
+| 17  | Agent Skills                            | Anthropic       | <img width="150" height="100" alt="certificate-wkh4wghzay7g-1784020618_page-0001" src="https://github.com/user-attachments/assets/bb55733f-e64a-40dc-bb2e-86840a48dce5" />
 
 
 
