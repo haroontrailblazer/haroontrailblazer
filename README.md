@@ -50,7 +50,7 @@ vector search, and ML models that make it past the notebook and into production.
 
 <br/>
 
-[![View Portfolio](https://img.shields.io/badge/◈_Portfolio-haroontrailblazer.vercel.app-D97757?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://haroontrailblazer.vercel.app/)
+[![View Portfolio](https://img.shields.io/badge/◈_Portfolio-haroon.pro-D97757?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://haroon.pro/)
 [![Let's Talk](https://img.shields.io/badge/◈_Book_a_Meeting-Google_Meet-4285F4?style=for-the-badge&logo=googlemeet&logoColor=white&labelColor=0d1117)](https://haroontrailblazer.vercel.app/booking.html)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/haroon-k-m-861b8a255) [![Gmail](https://img.shields.io/badge/Email-haroonint144-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:haroonint144@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=haroontrailblazer&color=D97757&style=flat&label=views) [![GitHub followers](https://img.shields.io/github/followers/haroontrailblazer?label=followers&style=flat&color=7c3aed)](https://github.com/haroontrailblazer)
