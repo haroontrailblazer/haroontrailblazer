@@ -15,7 +15,7 @@
   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝   ╚═╝  ╚═╝   ╚═╝     ╚═╝
 ```
 
-<a href="https://haroontrailblazer.vercel.app/">
+<a href="https://haroon.pro/">
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=700&color=D97757&center=true&vCenter=true&width=720&height=44&lines=AI+%2F+ML+Engineer;LLMs+%C2%B7+Agentic+AI+%C2%B7+RAG+Pipelines;Multi-Agent+Systems+%C2%B7+LangGraph;Data+%E2%86%92+Models+%E2%86%92+Production" alt="AI / ML Engineer — LLMs · Agentic AI · RAG Pipelines" />
 </a>
 
